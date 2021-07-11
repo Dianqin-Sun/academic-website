@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dianqin Sun
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's student in Epidemiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Epidemiology and Health Statistics
+    institution: Chinese Academy of Medical Sciences & Peking Union Medical College
+    year: 2019-2022
+  - course: BSc in Preventive Medicine
+    institution: Capital Medical University
+    year: 2014-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dianqin Sun is pursuing an Academic Master of Medicine in Epidemiology and Health Statistics at National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College. His research interest includes cancer epidemiology, focusing on risk assessment, cancer prevention based on longitudinal data, and causal inference, especially adopting causal mediation analyses to investigate ways to reduce social inequalities in gastric cancer prevention and screening.  He will graduate in June 2022, and he then intends to pursue a Ph.D. in cancer epidemiology, neuroepidemiology, pharmacoepidemiology, or social epidemiology.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
