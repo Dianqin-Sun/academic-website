@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: Master of Medicine in Epidemiology and Health Statistics
-    institution: Chinese Academy of Medical Sciences & Peking Union Medical College
+    institution: [Chinese Academy of Medical Sciences & Peking Union Medical College] (https://en.wikipedia.org/wiki/Peking_Union_Medical_College)
     year: 2019-2022
   - course: Bachelor of Medicine in Preventive Medicine
-    institution: Capital Medical University
+    institution: [Capital Medical University] (https://en.wikipedia.org/wiki/Capital_University_of_Medical_Sciences)
     year: 2014-2019
 
 intership:
@@ -70,7 +70,7 @@ email: "dianqinsun@student.pumc.edu.cn"
 highlight_name: true
 ---
 
-Dianqin Sun is pursuing an Academic Master of Medicine in Epidemiology and Health Statistics at National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College. 
+Dianqin Sun (孙殿钦) is pursuing an Academic Master of Medicine in Epidemiology and Health Statistics at National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College. 
 
 His research interest includes cancer epidemiology, focusing on risk assessment, cancer prevention based on longitudinal data, and causal inference, especially adopting causal mediation analyses to investigate ways to reduce social inequalities in gastric cancer prevention and screening.  
 
