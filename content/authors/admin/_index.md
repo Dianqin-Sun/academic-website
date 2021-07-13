@@ -6,12 +6,12 @@ title: Dianqin Sun
 superuser: true
 
 # Role/position/tagline
-role: Master's student in Epidemiology and Health Statistics
+role: Master's student in Epidemiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Cancer Center, Peking Union Medical College
-  url:
+- name: National Cancer Center, Peking Union Medical College & Chinese Academy of Medical Sciences
+  url:http://english.cams.cn/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
