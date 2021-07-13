@@ -12,7 +12,7 @@ date: "2021-03-01T00:00:00Z"
 doi: "10.1038/s41391-020-00268-2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-08-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,14 +27,14 @@ publication_short: In *Prostate Cancer Prostatic Dis*
 abstract: Although previous studies have shown a decreased incidence of prostate cancer in men with HIV/AIDS, the consensus has not been reached. Our aim is to conduct a systematic review and meta-analysis to assess the risk of prostate cancer among people with HIV/AIDS. We systematically searched PubMed, Web of Science, Embase, and Cochrane Library until March 2020. Cohort studies were included if they compared the prostate cancer risk between people with HIV/AIDS and uninfected controls or the general population. The summary standardized incidence ratio (SIR) and 95% confidence interval (CI) were calculated using a random-effects model. A total of 27 studies were included for analysis, with more than 2780 males with HIV/AIDS developing prostate cancer. The results showed that HIV infection was associated with a decreased risk of prostate cancer incidence (SIR, 0.76; 95% CI, 0.64-0.91; P = 0.003), with significant heterogeneity (P < 0.001; I2 = 91.6%). A range of sensitivity analyzes did not significantly change the results. Our study shows that people with HIV/AIDS have a lower incidence of prostate cancer compared with the general population. However, significant heterogeneity exists among the included studies. Further prospective studies with better designs are needed to elucidate the association between HIV infection and prostate cancer.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Previous studies have shown an unexpected association, that is, a decreased incidence of prostate cancer in men with HIV/AIDS. Our aim is to conduct a systematic review and meta-analysis to assess the risk of prostate cancer among people with HIV/AIDS. 
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+- url_pdf: https://github.com/Dianqin-Sun/academic-website/blob/master/exampleSite/content/publication/Pca HIV risk\Risk of prostate cancer in men with HIVAIDS.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -58,13 +58,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
