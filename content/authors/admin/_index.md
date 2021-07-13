@@ -6,12 +6,12 @@ title: Dianqin Sun
 superuser: true
 
 # Role/position/tagline
-role: Master's student in Epidemiology
+role: Master's student in Epidemiology and Health Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: National Cancer Center, Peking Union Medical College & Chinese Academy of Medical Sciences
+  url:http://english.cams.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
