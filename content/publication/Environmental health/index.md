@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: In *Environmental health*
 publication_short: In *Environmental health*
 
-abstract: Prior studies have investigated the association of PM2.5 exposure with arterial stiffness measured by ankle-brachial index (ABI) and brachial-ankle pulse wave velocity (baPWV), of which conclusions are inconsistent. Moreover, limited evidence is available on the contributory role of PM2.5 exposure on the arterial stiffness index. We used the population data from the Beijing Health Management Cohort and conducted a longitudinal analysis. The annual average concentration of PM2.5 for 35 air pollutant monitoring sites in Beijing from 2014 to 2018 was used to estimate individual exposure by different interpolation methods. Multivariate logistic regression and linear regression were conducted to assess the association of annual average PM2.5 concentration with the incidence of higher baPWV, the progression of ABI, and baPWV, respectively. The association between PM2.5 exposure and incidence of higher baPWV was not significant (OR = 1.11, 95% CI: 0.82–1.50, P = 0.497). There was − 0.16% (95% CI: − 0.43-0.11%) decrease in ABI annually and 1.04% (95% CI: 0.72–1.37%) increase in baPWV annually with each increment of 10 μg/m3 average PM2.5 concentration. Long-term exposure to PM2.5 was associated with the progression of arterial stiffness in Beijing. This study suggests that improvement of air quality may help to prevent arterial stiffness.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
