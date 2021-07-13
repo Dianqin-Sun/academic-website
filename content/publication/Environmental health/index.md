@@ -1,5 +1,5 @@
 ---
-title: "Cancer burden in China: trends, risk factors and prevention"
+title: "Long-term effects of fine particulate matter exposure on the progression of arterial stiffness"
 authors:
 - admin
 - He Li
@@ -8,8 +8,8 @@ authors:
 - Lin Lei
 - Ji Peng
 - Wanqing Chen
-date: "2020-11-01T00:00:00Z"
-doi: "10.20892/j.issn.2095-3941.2020.0387"
+date: "2021-01-06T00:00:00Z"
+doi: "10.1186/s12940-020-00688-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-15T00:00:00Z"
@@ -21,10 +21,10 @@ publishDate: "2020-12-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Cancer Biology & Medicine*
-publication_short: In *Cancer Biol Med*
+publication: In *Environmental health*
+publication_short: In *Environmental health*
 
-abstract: As the most populous country in the world, China has made strides in health promotion in the past few decades. With the aging population, the burden of cancer in China continues to grow. Changes in risk factors for cancer, especially diet, obesity, diabetes, and air pollution, continue to fuel the shift of cancer transition in China. The burden of upper gastrointestinal cancer in China is decreasing, but still heavy. The rising burden of colorectal, prostate, and breast cancers is also significant. Lung cancer became the top cause of cancer-related deaths, together with smoking as the most important contributor to cancer deaths. The Chinese government has taken several approaches to control cancer and cancer-related risk factors. Many achievements have been made, but some challenges remain. Health China 2030 is ambitious and depicts a bright vision of the future for cancer control in China. The decrease in the cancer burden in China will require cross-sector collaboration and coordinated efforts on primary and secondary preventions by governments, public health organizations, and individuals. In this review, we describe the trends of cancer burden and discuss cancer-related risk factors in China, identifying strategies to reduce the burden of cancer in China.
+abstract: Prior studies have investigated the association of PM2.5 exposure with arterial stiffness measured by ankle-brachial index (ABI) and brachial-ankle pulse wave velocity (baPWV), of which conclusions are inconsistent. Moreover, limited evidence is available on the contributory role of PM2.5 exposure on the arterial stiffness index. We used the population data from the Beijing Health Management Cohort and conducted a longitudinal analysis. The annual average concentration of PM2.5 for 35 air pollutant monitoring sites in Beijing from 2014 to 2018 was used to estimate individual exposure by different interpolation methods. Multivariate logistic regression and linear regression were conducted to assess the association of annual average PM2.5 concentration with the incidence of higher baPWV, the progression of ABI, and baPWV, respectively. The association between PM2.5 exposure and incidence of higher baPWV was not significant (OR = 1.11, 95% CI: 0.82–1.50, P = 0.497). There was − 0.16% (95% CI: − 0.43-0.11%) decrease in ABI annually and 1.04% (95% CI: 0.72–1.37%) increase in baPWV annually with each increment of 10 μg/m3 average PM2.5 concentration. Long-term exposure to PM2.5 was associated with the progression of arterial stiffness in Beijing. This study suggests that improvement of air quality may help to prevent arterial stiffness.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +34,6 @@ tags:
 featured: true
 
 links:
-- url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,15 +55,6 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

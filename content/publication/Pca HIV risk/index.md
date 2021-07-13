@@ -34,7 +34,6 @@ tags:
 featured: true
 
 links:
-- url_pdf: https://github.com/Dianqin-Sun/academic-website/blob/master/exampleSite/content/publication/Pca HIV risk\Pca HIV risk.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
