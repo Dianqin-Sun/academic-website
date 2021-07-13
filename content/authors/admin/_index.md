@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Epidemiology and Health Statistics
+  - course: Master of Medicine in Epidemiology and Health Statistics
     institution: Chinese Academy of Medical Sciences & Peking Union Medical College
     year: 2019-2022
-  - course: BSc in Preventive Medicine
+  - course: Bachelor of Medicine in Preventive Medicine
     institution: Capital Medical University
     year: 2014-2019
 
