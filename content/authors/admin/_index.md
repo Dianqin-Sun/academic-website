@@ -10,7 +10,7 @@ role: Master's student in Epidemiology and Health Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Cancer Center, Peking Union Medical College & Chinese Academy of Medical Sciences
+- name: National Cancer Center, Peking Union Medical College
   url:http://english.cams.cn/
 
 # Short bio (displayed in user profile at end of posts)
