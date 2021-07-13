@@ -2,9 +2,6 @@
 title: Reduce social inequality in gastric cancer: from primary prevention to cancer screening
 summary: An example of using the in-built project page.
 tags:
-- Master's thesis
-- Causal mediation
-- Prediction model
 
 date: "2021-03-01T00:00:00Z"
 
