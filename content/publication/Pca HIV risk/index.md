@@ -8,6 +8,16 @@ authors:
 - Jufang Shi
 - Ni Li
 - Wanqing Chen
+# Author notes (optional)
+author_notes:
+- 
+- 
+- 
+- 
+- 
+-  
+- "Corresponding author"
+
 date: "2021-03-01T00:00:00Z"
 doi: "10.1038/s41391-020-00268-2"
 

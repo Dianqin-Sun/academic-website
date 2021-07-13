@@ -45,8 +45,9 @@ abstract:
 
 tags:
 - Source Themes
-- Environmental Epidemiology
-- Undergraduate Thesis
+- Environmental epidemiology
+- Undergraduate thesis
+- Work during my undergraduate period 
 featured: true
 
 links:
