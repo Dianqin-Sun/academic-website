@@ -8,6 +8,14 @@ authors:
 - Lin Lei
 - Ji Peng
 - Wanqing Chen
+author_notes:
+- 
+- 
+- 
+- 
+-
+-
+- "Corresponding author"
 date: "2020-11-15T00:00:00Z"
 doi: "10.20892/j.issn.2095-3941.2020.0387"
 
@@ -27,7 +35,7 @@ publication_short: In *Cancer Biol Med*
 abstract: As the most populous country in the world, China has made strides in health promotion in the past few decades. With the aging population, the burden of cancer in China continues to grow. Changes in risk factors for cancer, especially diet, obesity, diabetes, and air pollution, continue to fuel the shift of cancer transition in China. The burden of upper gastrointestinal cancer in China is decreasing, but still heavy. The rising burden of colorectal, prostate, and breast cancers is also significant. Lung cancer became the top cause of cancer-related deaths, together with smoking as the most important contributor to cancer deaths. The Chinese government has taken several approaches to control cancer and cancer-related risk factors. Many achievements have been made, but some challenges remain. Health China 2030 is ambitious and depicts a bright vision of the future for cancer control in China. The decrease in the cancer burden in China will require cross-sector collaboration and coordinated efforts on primary and secondary preventions by governments, public health organizations, and individuals. In this review, we describe the trends of cancer burden and discuss cancer-related risk factors in China, identifying strategies to reduce the burden of cancer in China.
 
 # Summary. An optional shortened abstract.
-summary:  In this review, we describe the trends of cancer burden and discuss cancer-related risk factors in China, identifying strategies to reduce the burden of cancer in China.
+summary: 
 
 tags:
 - Source Themes
