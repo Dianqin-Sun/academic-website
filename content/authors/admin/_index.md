@@ -11,7 +11,7 @@ role: Master's student in Epidemiology
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: National Cancer Center, Peking Union Medical College & Chinese Academy of Medical Sciences
-  url:http://english.cams.cn/index.html
+  url: http://english.cams.cn/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
