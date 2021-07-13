@@ -1,5 +1,5 @@
 ---
-title: Reduce social inequality in gastric cancer: from primary prevention to cancer screening
+title: Reduce social inequality in gastric cancer from primary prevention to cancer screening
 summary: An example of using the in-built project page.
 tags:
 - Master's thesis
