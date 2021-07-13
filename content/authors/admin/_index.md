@@ -10,17 +10,17 @@ role: Master's student in Epidemiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Cancer Center, Peking Union Medical College & Chinese Academy of Medical Sciences
+- name: National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College
   url: http://english.cams.cn/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cancer epidemiology, causal inference and complex systems.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cancer epidemiology
+- Causal inference
+- Complex systems models
 
 # Education to show in About widget
 education:
@@ -42,16 +42,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/dianqinsun
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=1fBGoekAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Dianqin-Sun
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/sundianqin/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -61,14 +61,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "dianqinsun@student.pumc.edu.cn"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Dianqin Sun is pursuing an Academic Master of Medicine in Epidemiology and Health Statistics at National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College. His research interest includes cancer epidemiology, focusing on risk assessment, cancer prevention based on longitudinal data, and causal inference, especially adopting causal mediation analyses to investigate ways to reduce social inequalities in gastric cancer prevention and screening.  He will graduate in June 2022, and he then intends to pursue a Ph.D. in cancer epidemiology, neuroepidemiology, pharmacoepidemiology, or social epidemiology.
+Dianqin Sun is pursuing an Academic Master of Medicine in Epidemiology and Health Statistics at National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interest includes cancer epidemiology, focusing on risk assessment, cancer prevention based on longitudinal data, and causal inference, especially adopting causal mediation analyses to investigate ways to reduce social inequalities in gastric cancer prevention and screening.  
+
+He will graduate in June 2022, and he then intends to pursue a Ph.D. in cancer epidemiology, neuroepidemiology, pharmacoepidemiology, or social epidemiology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
