@@ -34,8 +34,7 @@ publication_types: ["2"]
 publication: In *Prostate cancer and prostatic diseases*
 publication_short: In *Prostate Cancer Prostatic Dis*
 
-abstract: 
-Although previous studies have shown a decreased incidence of prostate cancer in men with HIV/AIDS, the consensus has not been reached. Our aim is to conduct a systematic review and meta-analysis to assess the risk of prostate cancer among people with HIV/AIDS. 
+abstract: Although previous studies have shown a decreased incidence of prostate cancer in men with HIV/AIDS, the consensus has not been reached. Our aim is to conduct a systematic review and meta-analysis to assess the risk of prostate cancer among people with HIV/AIDS. 
 
 We systematically searched PubMed, Web of Science, Embase, and Cochrane Library until March 2020. Cohort studies were included if they compared the prostate cancer risk between people with HIV/AIDS and uninfected controls or the general population. The summary standardized incidence ratio (SIR) and 95% confidence interval (CI) were calculated using a random-effects model. 
 
@@ -48,6 +47,8 @@ summary: Previous studies have shown an unexpected association, that is, a decre
 
 tags:
 - Source Themes
+- Meta-analysis
+- Evidence-based medicine
 featured: true
 
 links:
