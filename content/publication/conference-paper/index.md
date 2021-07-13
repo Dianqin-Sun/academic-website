@@ -2,9 +2,14 @@
 title: "Risk of prostate cancer in men with HIV/AIDS: a systematic review and meta-analysis"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Maomao Cao
+- He Li
+- Jiansong Ren
+- Jufang Shi
+- Ni Li
+- Wanqing Chen
+date: "2021-03-01T00:00:00Z"
+doi: "10.1038/s41391-020-00268-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
