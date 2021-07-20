@@ -1,5 +1,5 @@
 ---
-title: Reduce social inequality in gastric cancer from primary prevention to cancer screening
+title: Cancer burden in China/: trends, risk factors and prevention
 summary: An example of using the in-built project page.
 tags:
 - Master's thesis
