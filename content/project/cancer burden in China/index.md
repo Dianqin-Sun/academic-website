@@ -3,8 +3,8 @@ title: "Cancer burden in China: trends, risk factors and prevention"
 summary: An example of using the in-built project page.
 tags:
 - Master's thesis
-- Causal mediation
-- Prediction model
+- Comparative risk assessment
+- Cancer burden
 date: "2019-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
