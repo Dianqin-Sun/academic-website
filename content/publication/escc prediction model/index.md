@@ -1,16 +1,31 @@
 ---
 title: "An initial screening strategy based on epidemiologic information in esophageal cancer screening: a prospective evaluation in a community-based cancer screening cohort in rural China"
 authors:
-- admin
-- Maomao Cao
-- He Li
-- Siyi He
 - Wanqing Chen
+- He Li 
+- Rongshou Zheng 
+- Jiansong Ren
+- Jufang Shi 
+- Maomao Cao 
+- admin
+- Xibin Sun
+- Xiaoqin Cao 
+- Jinyi Zhou 
+- ......
+- Jie He
+
 author_notes:
+-  "Corresponding author"
 - 
 - 
 - 
-- 
+-
+-
+-
+-
+-
+-
+-
 - "Corresponding author"
 date: "2021-01-01T00:00:00Z"
 doi: "10.1016/j.gie.2020.05.052"
