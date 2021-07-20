@@ -28,8 +28,8 @@ address:
   country: China
   country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '39.873684883327414'
+  longitude: '116.44533752618587'
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -123,8 +123,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: 'google'
+  api_key: 'AIzaSyDQlX_losxHzyz_O4ryDYHNuhkjjsE3zVY'
   zoom: 15
 marketing:
   google_analytics: 'G-JRNHB59BR6'
