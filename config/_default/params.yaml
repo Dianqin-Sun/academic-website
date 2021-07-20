@@ -123,8 +123,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'google'
-  api_key: 'AIzaSyDQlX_losxHzyz_O4ryDYHNuhkjjsE3zVY'
+  provider: ''
+  api_key: ''
   zoom: 15
 marketing:
   google_analytics: 'G-JRNHB59BR6'
