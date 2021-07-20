@@ -10,7 +10,7 @@ role: Master's student in Epidemiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College
+- name: Chinese Academy of Medical Sciences & Peking Union Medical College
   url: http://english.cams.cn/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+   icon_pack: ai
+   link: uploads/dianqinsun_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dianqinsun@student.pumc.edu.cn"
@@ -74,4 +74,4 @@ His research interest includes cancer epidemiology, focusing on risk assessment,
 
 He will graduate in June 2022, and he then intends to pursue a Ph.D. in cancer epidemiology, neuroepidemiology, pharmacoepidemiology, or social epidemiology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dianqinsun_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
