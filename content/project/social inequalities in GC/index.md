@@ -1,6 +1,7 @@
 ---
-title: Reduce social inequalities in gastric cancer from primary prevention to cancer screening
-summary: An example of using the in-built project page.
+title: Reducing social inequalities in gastric cancer from primary prevention to cancer screening
+summary:  Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer. Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
+
 tags:
 - Master's thesis
 - Causal mediation
@@ -11,7 +12,7 @@ date: "2021-03-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Health inequalties
   focal_point: Smart
 
 links:
@@ -32,7 +33,10 @@ url_video: ""
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Reducing social inequalities in cancer has been the leading topic in countries and international agencies. Educational inequalities in gastric cancer (GC) have been well established and seen as a typical case of social disparities in cancer prevention. The most recent meta-analysis found that people with a high level of education had a 40% lower risk of GC than individuals with a low level. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Given the existing evidence, individuals with low education are more likely to have a higher prevalence of unhealthy lifestyle risk factors. Furthermore, a healthy lifestyle has a strongly reverse relationship with GC risk. Therefore, it is plausible to expect that healthy lifestyle promotion could reduce gastric cancer burden from educational inequalities, which could have significant public health benefits. However, few studies have examined the contribution of health behaviors to the educational gap. Therefore, we aim to quantify the contribution of health behaviors to educational inequalities in GC by applying the causal mediation analysis.  The ultimate goal is to identify intervention targets for reducing social inequalities in GC.
+
+
+
 
