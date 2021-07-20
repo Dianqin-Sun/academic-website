@@ -11,21 +11,41 @@ authors:
 - Xibin Sun
 - Xiaoqin Cao 
 - Jinyi Zhou 
-- ......
+- Pengfei Luo 
+- Jialin Wang 
+- Hengmin Ma 
+- Tiantang Shao 
+- Chunling Zhao 
+- Shilin He 
+- Daokuan Sun 
+- Yuluan Xu 
+- Pengli Wu 
+- Hongmei Zeng 
+- Jiang Li 
 - Jie He
 
 author_notes:
--  "Corresponding author"
+- "Corresponding author"
+- "joint first author"
 - 
 - 
 - 
--
--
--
--
--
--
--
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - "Corresponding author"
 date: "2021-01-01T00:00:00Z"
 doi: "10.1016/j.gie.2020.05.052"
