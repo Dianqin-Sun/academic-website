@@ -1,7 +1,7 @@
 ---
 title: Introduction to causal diagrams for confounder selection
 
-event: Seminars in [*Real-World Evidence*] by the Epidemiology Student Association
+event: Seminars in *Real-World Evidence* by the Epidemiology Student Association
 event_url: https://mp.weixin.qq.com/s/1ZNwBozlwjL-wgQoIOMgEg
 
 location: Peking Union Medical College
@@ -11,18 +11,18 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-11-09"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Dianqin Sun]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -35,7 +35,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: DAG.pdf
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -53,10 +53,6 @@ slides: example
 projects:
 - internal-project
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
 Slides can be added in a few ways:
 
