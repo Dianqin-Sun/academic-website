@@ -19,7 +19,7 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Dianqin Sun]
-tags: []
+tags: [causal inference][Epidemiology Student Association]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -29,14 +29,14 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+ # icon_pack: fab
+  #name: Follow
+ # url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: DAG.pdf
-url_video: ""
+url_video: https://v.qq.com/x/page/l30570k61mp.html
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
