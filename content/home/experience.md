@@ -39,7 +39,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: Capital Medical University
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2019-06-30'
