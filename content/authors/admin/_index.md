@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Master of Medicine in Epidemiology and Health Statistics
-    institution: [Chinese Academy of Medical Sciences & Peking Union Medical College](https://en.wikipedia.org/wiki/Peking_Union_Medical_College)
+    institution: Chinese Academy of Medical Sciences & Peking Union Medical College
     year: 2019-2022
   - course: Bachelor of Medicine in Preventive Medicine
     institution: Capital Medical University
