@@ -6,8 +6,7 @@ event_url: https://mp.weixin.qq.com/s/1ZNwBozlwjL-wgQoIOMgEg
 
 location: Peking Union Medical College
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: principles of confounder selection based on DAGs.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,9 +18,7 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Dianqin Sun]
-tags: 
--[Causal inference]
--[Epidemiology Student Association @ PUMC]
+tags: [Causal inference]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -55,6 +52,7 @@ url_video: https://v.qq.com/x/page/l30570k61mp.html
 projects:
 - projects = []
 ---
+This is one of the seminars in *Real-World Evidence* by the Epidemiology Student Association at PUMC. The slide and video are in Chinese.
 
 If you want to know more about DAGs and confounder selection, check out these resources:
 
