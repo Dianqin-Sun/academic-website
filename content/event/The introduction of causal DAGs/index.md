@@ -61,6 +61,7 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 If you want to know more about DAGs and confounder selection, check out these resources:
--[edX course by Professor Miguel Hernan](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
--[coursera course by Professor Jason A. Roy](https://www.coursera.org/learn/crash-course-in-causality#syllabus)
--paper by Professor Tyler J. VanderWeele(https://link.springer.com/article/10.1007%2Fs10654-019-00494-6#Sec4)
+
+- [edX course](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your) by Professor Miguel Hernan
+- [coursera course](https://www.coursera.org/learn/crash-course-in-causality#syllabus) by Professor Jason A. Roy
+- [paper](https://link.springer.com/article/10.1007%2Fs10654-019-00494-6#Sec4) by Professor Tyler J. VanderWeele
