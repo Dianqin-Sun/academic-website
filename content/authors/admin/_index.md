@@ -14,13 +14,13 @@ organizations:
   url: http://english.cams.cn/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cancer epidemiology, causal inference and complex systems.
+bio: I am a master's student in Epidemiology and Health Statistics. I will graduate in June 2022, and I then intend to pursue a Ph.D. in epidemiology.
 
 # Interests to show in About widget
 interests:
-- Cancer epidemiology
 - Causal inference
-- Complex systems models
+- Socail epidemiology
+- Cancer epidemiology
 
 # Education to show in About widget
 education:
@@ -68,10 +68,10 @@ email: "dianqinsun@student.pumc.edu.cn"
 highlight_name: true
 ---
 
-Dianqin Sun (孙殿钦) is pursuing a Master degree in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. 
+I am a master's student in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. I will graduate in June 2022, and I then intend to pursue a Ph.D. in epidemiology.
 
-His research interest includes cancer epidemiology, focusing on risk assessment, cancer prevention based on longitudinal data, and causal inference, especially adopting causal mediation analyses to investigate ways to reduce social inequalities in gastric cancer prevention and screening.  
-
-He will graduate in June 2022, and he then intends to pursue a Ph.D. in cancer epidemiology, neuroepidemiology, pharmacoepidemiology, or social epidemiology.
-
+My major interest now is social inequalities in gastric cancer. My ambition is to answer why the inequalities occur using the causal mediation methods and how to achieve more equitable screening services based on improving prediction models. Another strand of my graduation works deals with quantifying the impact of change in dietary patterns on the cancer burden in China using the comparative risk assessment. 
+ 
+I am interested in both methodologies and improtant research questions in public health. I hope I could provide critical insight for the academic community and donate my contribution to population health.
+ 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dianqinsun_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
