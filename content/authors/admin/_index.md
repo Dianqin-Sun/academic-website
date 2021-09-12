@@ -68,7 +68,7 @@ email: "dianqinsun@student.pumc.edu.cn"
 highlight_name: true
 ---
 
-Dianqin Sun (孙殿钦) is pursuing an Academic Master of Medicine in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. 
+Dianqin Sun (孙殿钦) is pursuing a Master degree in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. 
 
 His research interest includes cancer epidemiology, focusing on risk assessment, cancer prevention based on longitudinal data, and causal inference, especially adopting causal mediation analyses to investigate ways to reduce social inequalities in gastric cancer prevention and screening.  
 
