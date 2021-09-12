@@ -1,8 +1,8 @@
 ---
 title: Introduction to causal diagrams for confounder selection
 
-event: Seminars in Real-World Evidence by the Epidemiology Student Association
-event_url: https://example.org
+event: Seminars in [*Real-World Evidence*] by the Epidemiology Student Association
+event_url: https://mp.weixin.qq.com/s/1ZNwBozlwjL-wgQoIOMgEg
 
 location: Peking Union Medical College
 
