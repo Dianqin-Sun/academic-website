@@ -2,7 +2,7 @@
 title: Introduction to decision trees
 
 event: Seminars in *Machine Learning in Epidemiology* by the Epidemiology Student Association
-location: Fuwai Hospital
+location: Fuwai Hospital, Chinese Academy of Medical Sciences
 location_url: https://www.fuwaihospital.org/Hospitals/Main?type=4
 
 summary: Decision tree algorithm and its application in epidemiology.
