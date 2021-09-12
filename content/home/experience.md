@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: Peking_Union_Medical_College
     location: Beijing
     date_start: '2019-09-01'
     date_end: ''
