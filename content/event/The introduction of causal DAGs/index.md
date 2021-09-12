@@ -19,7 +19,9 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Dianqin Sun]
-tags: [causal inference]
+tags: 
+-Causal inference
+-Epidemiology Student Association
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -60,4 +62,7 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+If you want to know more about DAGs and confounder selection, check out these resources:
+-[edX course by Professor Miguel Hernan](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
+-[coursera course by Professor Jason A. Roy](https://www.coursera.org/learn/crash-course-in-causality#syllabus)
+-paper by Professor Tyler J. VanderWeele(https://link.springer.com/article/10.1007%2Fs10654-019-00494-6#Sec4)
