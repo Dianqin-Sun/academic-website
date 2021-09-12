@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 25
 
-title: Research experience
+title: Education
 subtitle:
 
 # Date format for experience

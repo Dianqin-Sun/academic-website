@@ -23,7 +23,7 @@ interests:
 - Cancer epidemiology
 
 # Education to show in About widget
-education:
+courses:
   courses:
   - course: Master of Medicine in Epidemiology and Health Statistics
     institution: Chinese Academy of Medical Sciences & Peking Union Medical College
