@@ -1,10 +1,16 @@
 ---
-title: Introduction to causal diagrams for confounder selection
+title: Example Talk
 
-event: Seminars in Real World Evidence
+event: Wowchemy Conference
 event_url: https://example.org
 
-location: Peking Union Medical College, Beijing
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -18,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Dianqin Sun]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -32,7 +38,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen 
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -51,7 +57,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- internal-project
 ---
 
 {{% callout note %}}
