@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Master's student
     company: Peking Union Medical College
-    company_url: ''
-    company_logo: ''
+    company_url: http://english.cams.cn/index.html
+    company_logo: Peking_Union_Medical_College
     location: Beijing
     date_start: '2019-09-01'
     date_end: ''
