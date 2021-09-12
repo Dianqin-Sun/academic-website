@@ -19,8 +19,9 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Dianqin Sun]
-tags: [Causal inference]
-[Epidemiology Student Association @ PUMC]
+tags: 
+-[Causal inference]
+-[Epidemiology Student Association @ PUMC]
 
 # Is this a featured talk? (true/false)
 featured: true
