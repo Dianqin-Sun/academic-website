@@ -52,7 +52,7 @@ url_video: https://v.qq.com/x/page/l30570k61mp.html
 projects:
 - projects = []
 ---
-This is one of the seminars in *Real-World Evidence* by the Epidemiology Student Association at PUMC. The [slide](DAG.pdf) and [video](https://v.qq.com/x/page/l30570k61mp.html) are in Chinese.
+This is one of the seminars in *Real-World Evidence* by the Epidemiology Student Association at PUMC. The {{% staticref "DAG.pdf" "newtab" %}}[slide]{{% /staticref %}} and [video](https://v.qq.com/x/page/l30570k61mp.html) are in Chinese.
 
 If you want to know more about DAGs and confounder selection, check out these resources:
 
