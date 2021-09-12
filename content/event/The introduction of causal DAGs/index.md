@@ -24,7 +24,7 @@ tags: [Causal inference]
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'By Feiling'
   focal_point: Right
 
 links:
@@ -52,7 +52,7 @@ url_video: https://v.qq.com/x/page/l30570k61mp.html
 projects:
 - projects = []
 ---
-This is one of the seminars in *Real-World Evidence* by the Epidemiology Student Association at PUMC. The slide and video are in Chinese.
+This is one of the seminars in *Real-World Evidence* by the Epidemiology Student Association at PUMC. The [slide](DAG.pdf) and [video](https://v.qq.com/x/page/l30570k61mp.html) are in Chinese.
 
 If you want to know more about DAGs and confounder selection, check out these resources:
 
