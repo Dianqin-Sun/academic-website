@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Master student in Epidemiology and Health Statistics
-    company: Chinese Academy of Medical Sciences & Peking Union Medical College
+    company: Chinese Academy of Medical Sciences  Peking Union Medical College
     company_url:''
     company_logo: Peking_Union_Medical_College
     location: Beijing
