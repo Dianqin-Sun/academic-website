@@ -35,7 +35,6 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-
  - title: Research Assistant with Professor Yifei Hu
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
     company_url: ''
