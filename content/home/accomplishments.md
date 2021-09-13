@@ -31,6 +31,14 @@ item:
   organization_url: http://www.cylds.com/index.php
   title: Climate Adaptation Youth Intervention Program Grant for field research
   url: ""
+- certificate_url: physics competition.jpg
+  date_end: ""
+  date_start: "2015-12-26"
+  description: ""
+  organization: Beijing Physical Society
+  organization_url: http://www.bjwlxh.cn/Ch/Index.asp
+  title: First Prize, 32nd National Physics Competition for College Students (agricultural, forestry, and medical students' group)
+  url: ""
 - certificate_url: UNESCO.jpg
   date_end: "2016-11-30"
   date_start: "2016-10-01"
