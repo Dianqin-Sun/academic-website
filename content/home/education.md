@@ -25,7 +25,7 @@ experience:
   - title: Master's student in Epidemiology and Health Statistics
     company: Chinese Academy of Medical Sciences & Peking Union Medical College
     company_url: ''
-    company_logo: ''
+    company_logo: Peking_Union_Medical_College
     location: Beijing
     date_start: '2019-09-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Bachelor's degree in Preventive Medicine
     company: Capital Medical University
     company_url: ''
-    company_logo: ''
+    company_logo: CCMU
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2019-06-30'
