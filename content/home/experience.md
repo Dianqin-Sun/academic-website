@@ -25,19 +25,20 @@ experience:
   - title: Graduate Student Researcher with Professor Wanqing Chen
     company: National Cancer Center, CAMS & PUMC
     company_url: ''
-    company_logo: ''
+    company_logo: NCC
     location: Beijing
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-       - **Reducing social inequalities in gastric cancer from primary prevention to cancer screening:**
-           -*Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
-           -* Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
-        - ** Cancer burden**
-  - title: Research Assistant with Professor Yifei Hu
+       **Reducing social inequalities in gastric cancer from primary prevention to cancer screening:**<br>
+       *Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer<br>
+       * Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables<br>
+        ** Cancer burden**
+  
+ - title: Research Assistant with Professor Yifei Hu
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
     company_url: ''
-    company_logo: ''
+    company_logo: CCMU
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2019-06-30'
