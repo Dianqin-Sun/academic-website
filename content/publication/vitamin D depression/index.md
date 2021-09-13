@@ -44,7 +44,8 @@ publication_types: ["2"]
 publication: In *The American Journal of Geriatric Psychiatry*
 publication_short: In *Am J Geriatr Psychiatry*
 
-abstract: Objective The association between serum vitamin D and risk of depression in older adults is controversial. We performed a dose-response meta-analysis of prospective cohort studies to examine the association between serum 25-hydroxyvitamin D [25(OH)D] concentrations and the risk of depression in older population.
+abstract: |2-
+**Objective** The association between serum vitamin D and risk of depression in older adults is controversial. We performed a dose-response meta-analysis of prospective cohort studies to examine the association between serum 25-hydroxyvitamin D [25(OH)D] concentrations and the risk of depression in older population.
 
 **Methods** Studies published before February 2018 in the PubMed, Cochrane Library, Web of Science, PsycINFO, and EMBASE databases were systematically searched. Prospective cohort studies that examined the association between serum 25(OH)D levels and the risk of depression in older adults were included. A random-effects model was used to calculate the pooled hazard ratio and the corresponding 95% confidence intervals. A nonlinear dose-response association was examined using restricted cubic spline functions.
 
