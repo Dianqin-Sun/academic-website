@@ -30,9 +30,9 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
+
     Academic performance includes
         * GPA:
-    Leadership experience includes
         * GPA:
         
   - title: Bachelor's degree in Preventive Medicine
@@ -43,9 +43,9 @@ experience:
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
+
     Academic performance includes
         * GPA:
-    Leadership experience includes
         * Deploying
 design:
   columns: '2'
