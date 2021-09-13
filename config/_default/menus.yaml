@@ -19,10 +19,12 @@ main:
   - name: Presentations
     url: '#talks'
     weight: 50
+  - name: Accomplishments
+    url: '#accomplishments'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
-
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.
