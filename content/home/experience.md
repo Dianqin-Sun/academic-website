@@ -33,7 +33,6 @@ experience:
        **Reducing social inequalities in gastric cancer from primary prevention to cancer screening:**  
        *Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer  
        * Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
-  
        ** Cancer burden**
       
  - title: Research Assistant with Professor Yifei Hu
