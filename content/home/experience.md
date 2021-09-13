@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Student Researcher with Professor Wanqing Chen
+  - title: Graduate Student Researcher with Professor [Wanqing Chen](https://scholar.google.com/citations?user=k6EnRdQAAAAJ&hl=zh-TW&oi=ao)
     company: National Cancer Center, CAMS & PUMC
     company_url: ''
     company_logo: NCC
