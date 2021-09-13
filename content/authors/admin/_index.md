@@ -44,15 +44,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dianqinsun
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=1fBGoekAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/Dianqin-Sun
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sundianqin/
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=1fBGoekAAAAJ&hl=en&oi=ao
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Dianqin-Sun
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
