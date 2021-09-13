@@ -1,7 +1,7 @@
 ---
 # Display name
--title: Dianqin Sun
-url: https://www.researchgate.net/profile/Dianqin-Sun
+title: Dianqin Sun
+
 # Is this the primary user of the site?
 superuser: true
 
