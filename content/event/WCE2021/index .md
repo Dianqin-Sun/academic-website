@@ -26,13 +26,15 @@ projects: [social inequalities in GC]
 # Show this page in the Featured widget?
 featured: true
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors: [Dianqin Sun]
+tags: [Causal mediation]
+
+# Is this a featured talk? (true/false)
+featured: true
+
 image:
-  caption: ''
-  focal_point: ""
-  placement: 2
-  preview_only: false
+  caption: 'poster'
+  focal_point: Right
 
 
 
