@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Research Assistant with Professor Yifei Hu
+  - title: Research Assistant with Professor [Yifei Hu](https://www.researchgate.net/profile/Hu-Yi-fei)
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
     company_url: ''
     company_logo: CCMU
@@ -46,7 +46,7 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 
-  - title: Research Assistant with Professor Lixin Tao and Professor Ling Zhang
+  - title: Research Assistant with Professor [Lixin Tao](https://www.researchgate.net/profile/Lixin-Tao-2) and Professor [Ling Zhang](https://www.researchgate.net/profile/Ling-Zhang-25)
     company: Department of Epidemiology and Health Statistics, Capital Medical University
     company_url: ''
     company_logo: CCMU
