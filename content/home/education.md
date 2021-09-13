@@ -22,30 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master student in Epidemiology and Health Statistics
-    company: Chinese Academy of Medical Sciences  Peking Union Medical College
+  - title: Master's student in Epidemiology and Health Statistics
+    company: Chinese Academy of Medical Sciences & Peking Union Medical College
     company_url:''
     company_logo: Peking_Union_Medical_College
     location: Beijing
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-
-    Academic performance includes
-        * GPA:
-        * GPA:
+        Responsibilities include:
         
-  - title: Bachelors degree in Preventive Medicine
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Bachelor's degree in Preventive Medicine
     company: Capital Medical University
     company_url: ''
     company_logo: CCMU
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2019-06-30'
-    description: |2-
-
-    Academic performance includes
-        * GPA:
+     description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
         * Deploying
 design:
   columns: '2'
