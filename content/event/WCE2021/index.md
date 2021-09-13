@@ -49,7 +49,7 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- projects = []
+- projects = [social inequalities in GC]
 ---
 This is one part of my work about *social inequalities in gastric cancer*. The initial results sugget that Health behaviors mediated a small proportion of the educational inequalities in HGD and GC. Living a healthy lifestyle could reduce the risk of gastric cancer. However, healthy lifestyle promotion alone might not reduce the educational inequalities in GC.
 
