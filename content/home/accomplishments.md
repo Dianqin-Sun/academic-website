@@ -31,13 +31,13 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: UNESCO.jpg
+- certificate_url: ""
   date_end: "2016-11-31"
   date_start: "2016-10-01"
   description: 'Conducted user interviews and testing, performed marketing assessment, and developed advertising strategies for TALKMATE APP'
   organization: UNESCO-TALKMATE NEXUS
   organization_url: http://unesco-talkmate.org/
-  title:  Excellent Volunteer in World Language Atlas program 
+  title: 'Excellent Volunteer in World Language Atlas program' 
   url: ''
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/3de18d7699e804dca33bfd72b66c21e307523718
   date_end: "2019-05-10"
