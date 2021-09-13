@@ -30,7 +30,11 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        GPA
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
  - title: Research Assistant with Professor Yifei Hu
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
@@ -39,9 +43,13 @@ experience:
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2019-06-30'
+    date_end: ''
     description: |2-
-        *GPA 
+        Responsibilities include:
         
+        * Analysing
+        * Modelling
+        * Deploying
       
 design:
   columns: '2'
