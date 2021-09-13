@@ -31,21 +31,21 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: UNESCO.jpg
+  date_end: "2016-11-31"
+  date_start: "2016-10-01"
+  description: 'Conducted user interviews and testing, performed marketing assessment, and developed advertising strategies for TALKMATE APP'
+  organization: UNESCO-TALKMATE NEXUS
+  organization_url: http://unesco-talkmate.org/
+  title:  Excellent Volunteer in World Language Atlas program 
+  url: ''
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/3de18d7699e804dca33bfd72b66c21e307523718
+  date_end: "2019-05-10"
+  date_start: "2019-03-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: 'Data Analyst with R Track'
   url: ""
 
 design:
