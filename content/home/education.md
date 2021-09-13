@@ -30,11 +30,8 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * GPA 
+        * Executive President of Epidemiology Student Association
         
   - title: Bachelor's degree in Preventive Medicine
     company: Capital Medical University
@@ -44,11 +41,8 @@ experience:
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
+        * GPA
         * Modelling
-        * Deploying
 design:
   columns: '2'
   view: 2
