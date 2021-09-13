@@ -34,7 +34,7 @@ item:
 - certificate_url: ""
   date_end: "2016-11-31"
   date_start: "2016-10-01"
-  description: 'Conducted user interviews and testing, performed marketing assessment, and developed advertising strategies for TALKMATE APP'
+  description: ""
   organization: UNESCO-TALKMATE NEXUS
   organization_url: http://unesco-talkmate.org/
   title: 'Excellent Volunteer in World Language Atlas program' 
