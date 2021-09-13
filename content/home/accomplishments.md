@@ -32,7 +32,7 @@ item:
   title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: ""
-  date_end: "2016-11-31"
+  date_end: "2016-11-30"
   date_start: "2016-10-01"
   description: ""
   organization: UNESCO-TALKMATE NEXUS
