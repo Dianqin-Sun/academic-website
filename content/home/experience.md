@@ -30,7 +30,11 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-       Reducing social inequalities in gastric cancer from primary prevention to cancer screening:
+ Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
       
  - title: Research Assistant with Professor Yifei Hu
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
