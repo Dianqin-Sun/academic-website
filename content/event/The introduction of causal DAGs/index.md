@@ -1,6 +1,5 @@
 ---
 title: Introduction to causal diagrams for confounder selection
-
 event: Seminars in *Real-World Evidence* by the Epidemiology Student Association
 event_url: https://mp.weixin.qq.com/s/1ZNwBozlwjL-wgQoIOMgEg
 
@@ -18,7 +17,8 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Dianqin Sun]
-tags: [Causal inference]
+tags: 
+- Causal inference
 
 # Is this a featured talk? (true/false)
 featured: true

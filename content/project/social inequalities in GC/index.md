@@ -46,5 +46,6 @@ Given the existing evidence, individuals with low education are more likely to h
 
 **Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables**
 
+Story from lung cancer screening in the USA just showed the racial disparities brought by crucial treshold. Previous literatures also emphasized the importance of SES in the risk assessment. The risk-based screening strategies by the guideline in China now ignore the independent contribution of SES to gastric cancer and thus may contribute to increasing social disparities. We aims to evaluate the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
 
 

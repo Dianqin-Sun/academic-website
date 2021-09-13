@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 'Presentations'
-subtitle:
+subtitle: conference, seminars, and journal club
 
 content:
   # Page type to display. E.g. post, event, publication...

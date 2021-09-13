@@ -1,29 +1,35 @@
 ---
 title: The contribution of health behaviors to educational inequalities in gastric high-grade dysplasia and gastric cancer
-subtitle: 
+event: World Congress of Epidemiology
+event_url: https://wce2020.org/
 
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+location: virtual, Australia
+
+summary: principles of confounder selection based on DAGs.
+
+date: "2021-09-04"
+#date_end: "2030-06-01T15:00:00Z"
+all_day: true
 
 # Link this post with a project
-projects: []
+projects: [social inequalities in GC]
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+#date: "2020-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+#lastmod: "2020-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: yes
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
@@ -32,14 +38,10 @@ authors:
 - admin
 
 tags:
-- Academic
-- 开源
-
-categories:
-- Demo
-- 教程
----
-
+- Causal mediation
+- Health disparities
+- Cancer epidemiology
+- Causal inference
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -91,14 +93,3 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 - **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
 - **One-Click Deployment** - No servers. No databases. Only files.
 
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
