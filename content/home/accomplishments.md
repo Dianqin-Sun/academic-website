@@ -23,25 +23,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: climate adaptation.jpg
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Coursera
+  organization: China Youth Leaders Foundation
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Climate Adaptation Youth Intervention Program Grant for field research
   url: ""
-- certificate_url: ""
+- certificate_url: UNESCO.jpg
   date_end: "2016-11-30"
   date_start: "2016-10-01"
-  description: ""
+  description: "Conducted user interviews and testing, performed marketing assessment, and developed advertising strategies for TALKMATE APP"
   organization: UNESCO-TALKMATE NEXUS
   organization_url: http://unesco-talkmate.org/
   title: 'Excellent Volunteer in World Language Atlas program' 
   url: ''
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/3de18d7699e804dca33bfd72b66c21e307523718
   date_end: "2019-05-10"
-  date_start: "2019-03-01"
+  date_start: "2019-02-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
