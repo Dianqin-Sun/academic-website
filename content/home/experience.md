@@ -35,22 +35,16 @@ experience:
         * Analysing
         * Modelling
         * Deploying
- - title: Research Assistant with Professor Yifei Hu
-    company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: CCMU
     location: Beijing
-    date_start: '2014-09-01'
-    date_end: '2019-06-30'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-      
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
 design:
   columns: '2'
-  view: 2
 ---
