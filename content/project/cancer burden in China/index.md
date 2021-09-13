@@ -15,14 +15,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/dianqinsun
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   name: Follow
   link: https://twitter.com/dianqinsun
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/dianqinsun
 
 url_code: ""
 url_pdf: ""
