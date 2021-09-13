@@ -1,8 +1,8 @@
 ---
 title: "Cancer burden in China: trends, risk factors and prevention"
 summary: |2-
-        *Summarized the trend of cancer burden in China. 
-        *Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
+        Summarized the trend of cancer burden in China. 
+        Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
 tags:
 - Comparative risk assessment
 - Cancer burden
