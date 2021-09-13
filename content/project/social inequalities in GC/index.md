@@ -4,6 +4,7 @@ summary:  Applied causal mediation analysis to identify intervention targets for
 
 tags:
 - Master's thesis
+- Health inequalties
 - Causal mediation
 - Prediction model
 date: "2021-03-01T00:00:00Z"
@@ -16,6 +17,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  name: Follow
+  url: https://www.researchgate.net/profile/Dianqin-Sun
 - icon: twitter
   icon_pack: fab
   name: Follow

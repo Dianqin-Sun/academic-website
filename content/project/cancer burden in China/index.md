@@ -2,7 +2,6 @@
 title: "Cancer burden in China: trends, risk factors and prevention"
 summary: An example of using the in-built project page.
 tags:
-- Master's thesis
 - Comparative risk assessment
 - Cancer burden
 date: "2019-12-01T00:00:00Z"
@@ -18,7 +17,7 @@ links:
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   name: Follow
-  link: https://twitter.com/dianqinsun
+  url: https://www.researchgate.net/profile/Dianqin-Sun
 - icon: twitter
   icon_pack: fab
   name: Follow
