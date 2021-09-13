@@ -25,10 +25,10 @@ date_format: Jan 2006
 item:
 - certificate_url: climate adaptation.jpg
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2017-08-20"
   description: ""
   organization: China Youth Leaders Foundation
-  organization_url: https://www.coursera.org
+  organization_url: http://www.cylds.com/index.php
   title: Climate Adaptation Youth Intervention Program Grant for field research
   url: ""
 - certificate_url: UNESCO.jpg
@@ -37,7 +37,6 @@ item:
   description: "Conducted user interviews and testing, performed marketing assessment, and developed advertising strategies for TALKMATE APP"
   organization: UNESCO-TALKMATE NEXUS
   organization_url: http://unesco-talkmate.org/
-  organization_logo: NCC
   title: 'Excellent Volunteer in World Language Atlas program' 
   url: ''
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/3de18d7699e804dca33bfd72b66c21e307523718
