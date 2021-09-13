@@ -45,7 +45,7 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-experience:
+
   - title: Research Assistant with Professor Lixin Tao and Professor Ling Zhang
     company: Department of Epidemiology and Health Statistics, Capital Medical University
     company_url: ''
