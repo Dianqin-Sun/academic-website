@@ -33,7 +33,7 @@ experience:
         **Reducing social inequalities in gastric cancer from primary prevention to cancer screening:**
         * Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
         * Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
-         |2-
+description: >-
          **Cancer burden in China: trends, risk factors and prevention**
          *Summarized the trend of cancer burden in China
          *Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
