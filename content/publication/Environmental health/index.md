@@ -44,10 +44,10 @@ abstract:
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
 - Environmental epidemiology
-- Undergraduate thesis
-- Work during my undergraduate period 
+- Bachelor's thesis
+- Work during undergraduation 
+
 featured: true
 
 links:

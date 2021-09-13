@@ -43,7 +43,7 @@ experience:
     date_end: '2019-06-30'
     description: |2-
         * GPA
-        * Modelling
+        * First Class Scholarship; Outstanding Student Leader
 design:
   columns: '2'
   view: 2

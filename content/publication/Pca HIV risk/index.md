@@ -40,9 +40,9 @@ abstract: Although previous studies have shown a decreased incidence of prostate
 summary: Previous studies have shown an unexpected association, that is, a decreased incidence of prostate cancer in men with HIV/AIDS. Our aim is to conduct a systematic review and meta-analysis to assess the risk of prostate cancer among people with HIV/AIDS. 
 
 tags:
-- Source Themes
 - Meta-analysis
 - Evidence-based medicine
+- Cancer epidemiology
 featured: true
 
 links:

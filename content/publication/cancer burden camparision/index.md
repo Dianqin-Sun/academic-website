@@ -34,7 +34,7 @@ abstract: To summarize the cancer burden and trends in China, compare the differ
 
 
 tags:
-- Source Themes
+- Cancer epidemiology
 - Cancer burden
 - Work during my master's study 
 featured: true
