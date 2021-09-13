@@ -34,13 +34,5 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- admin
-
-tags:
-- Causal mediation
-- Health disparities
-- Cancer epidemiology
-- Causal inference
 
 
