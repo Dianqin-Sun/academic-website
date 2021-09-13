@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher with Professor Wanqing Chen
     company: National Cancer Center, CAMS & PUMC
     company_url: ''
-    company_logo: ''
+    company_logo: NCC
     location: Beijing
     date_start: '2019-09-01'
     date_end: ''
