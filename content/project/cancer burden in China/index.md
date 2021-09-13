@@ -19,11 +19,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dianqinsun
-links:
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   name: Follow
-  link: https://www.researchgate.net/profile/Dianqin-Sun
+  link: ""
 
 url_code: ""
 url_pdf: ""
