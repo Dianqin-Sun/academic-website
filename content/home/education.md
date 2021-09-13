@@ -32,6 +32,7 @@ experience:
     description: |2-
         * GPA 
         * Executive President of Epidemiology Student Association
+        * Director of Academics, Cancer Hospital Research Student Association
         
   - title: Bachelor's degree in Preventive Medicine
     company: Capital Medical University
