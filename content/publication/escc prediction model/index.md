@@ -71,7 +71,7 @@ abstract:
 tags:
 - prediction model
 - Work during my master's study 
-featured: true
+featured: false
 
 links:
 
