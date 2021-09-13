@@ -22,7 +22,7 @@ links:
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   name: Follow
-  link: ""
+  link: https://twitter.com/dianqinsun
 
 url_code: ""
 url_pdf: ""
