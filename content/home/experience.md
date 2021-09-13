@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        * GPA
+        GPA
 
  - title: Research Assistant with Professor Yifei Hu
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
@@ -40,9 +40,8 @@ experience:
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
-        * GPA 
-        * Executive President of Epidemiology Student Association
-        * Director of Academics, Cancer Hospital Research Student Association
+        *GPA 
+        
       
 design:
   columns: '2'
