@@ -23,7 +23,7 @@ tags: [Causal mediation]
 featured: true
 
 image:
-  caption: 'By Feiling'
+  caption: 'Poster'
   focal_point: Right
 
 links:
@@ -33,7 +33,7 @@ links:
  # url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: WCE21-poster.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -51,10 +51,11 @@ url_video: ""
 projects:
 - projects = []
 ---
-This is one of the seminars in *Real-World Evidence* by the Epidemiology Student Association at PUMC. The {{% staticref "DAG.pdf" "newtab" %}}slide{{% /staticref %}} and [video](https://v.qq.com/x/page/l30570k61mp.html) are in Chinese.
+This is one part of my work about *social inequalities in gastric cancer*. The initial results sugget that Health behaviors mediated a small proportion of the educational inequalities in HGD and GC. Living a healthy lifestyle could reduce the risk of gastric cancer. However, healthy lifestyle promotion alone might not reduce the educational inequalities in GC.
 
-If you want to know more about DAGs and confounder selection, check out these resources:
+This study has several limitations. First, the study population was from high-risk areas in China, where population genetic background and environmental exposure might be different from those in non-high-risk areas. The generalization of the results, therefore, must be made cautiously. Second, the self-selection bias may exist considering the endoscopy is an invasive procedure. Third, we used the baseline data instead of longitudinal data. Considering our participants did not learn about their status of gastric mucosa before the endoscopy, the recall bias was minimized, but we still cannot ensure the temporal order of the exposure, mediation, and the outcome. Given that educational attainment was determined in the earlier part of life, the temporal relationship between health behaviors and the status of gastric mucosa was the primary source of the uncertainty. Participants with HGD and GC might change their health behaviors due to symptoms even though they did not know the cancer status. Nevertheless, we did not find differences in symptoms between cases and healthy individuals (data not shown). 
 
-- [edX course](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your) by Professor Miguel Hernan
-- [coursera course](https://www.coursera.org/learn/crash-course-in-causality#syllabus) by Professor Jason A. Roy
-- [paper](https://link.springer.com/article/10.1007%2Fs10654-019-00494-6#Sec4) by Professor Tyler J. VanderWeele
+Despite these limitations, our study provided significant insight into the contribution role of health behaviors in educational inequalities in GC, having significant implications for high-incidence regions. In further studies, we would use the longitudinal data from the control arm in non-high-risk areas to testify the results and avoid the abovementioned limitations.
+
+If you want to know more about our latest results, follow me at [researchgate](https://www.researchgate.net/profile/Dianqin-Sun).
+
