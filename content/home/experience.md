@@ -22,22 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master's student
-    company: Peking Union Medical College
+  - title: Graduate Student Researcher with Professor Wanqing Chen
+    company: National Cancer Center, CAMS & PUMC
     company_url: ''
     company_logo: ''
     location: Beijing
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        **Reducing social inequalities in gastric cancer from primary prevention to cancer screening:**
+        * Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
+        * Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
+         **Cancer burden in China: trends, risk factors and prevention**
+         *Summarized the trend of cancer burden in China
+         *Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
+
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: Capital Medical University
+  - title: Research Assistant with Professor Yifei Hu
+    company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
     company_url: ''
     company_logo: ''
     location: Beijing
