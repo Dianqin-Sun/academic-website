@@ -33,10 +33,8 @@ experience:
         Responsibilities include:
         
         * Analysing
-        * Modelling
+            * Modelling
         * Deploying
-        |2-
-        Responsibilities include:
         * Analysing
         * Modelling
         * Deploying
