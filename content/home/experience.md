@@ -57,7 +57,7 @@ experience:
     date_end: ''
     description: |2-
         * Cognitive and mental health in old adults
-            * Investigated the association between superoxide dismutase activity and risk of cognitive [A publication]({{< relref "/publication/SOD" >}} "About Us")
+            * [Investigated the association between superoxide dismutase activity and risk of cognitive]({{< relref "/content/publication/SOD" >}})
             * [Examined the effect of serum 25(OH)D levels on depression in older adults using meta-analysis]({{< relref "/publication/vitamin D depression" >}})
         * The health effect of ambient air pollution
            * [Assessed the association between fine particulate matter exposure and the progression of arterial stiffness]({{< relref "/publication/Environmental health" >}})
