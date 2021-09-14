@@ -35,7 +35,11 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
+        |2-
+        Responsibilities include:
+        * Analysing
+        * Modelling
+        * Deploying
   - title: Research Assistant with Professor [Yifei Hu](https://www.researchgate.net/profile/Hu-Yi-fei)
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
     company_url: ''
