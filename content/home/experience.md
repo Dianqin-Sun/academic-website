@@ -43,8 +43,10 @@ experience:
     location: Beijing
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: |2-
+        * Awareness of influenza vaccination among pregnant women and their obstetricians in Beijing
+            * Investigated factors that might influence the willingness of pregnant women to accept influenza vaccine and the willingness of obstetricians to recommend these vaccines
+        * Participated in the baseline survey of [Beijing Child Growth and Health Cohort (PROC) Study](https://procstudy.com/)
 
   - title: Research Assistant with Professor [Lixin Tao](https://www.researchgate.net/profile/Lixin-Tao-2) and Professor [Ling Zhang](https://www.researchgate.net/profile/Ling-Zhang-25)
     company: Department of Epidemiology and Health Statistics, Capital Medical University
@@ -54,11 +56,12 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
-        Responsibilities include:
+        * Cognitive and mental health in old adults
+            * Investigated the association between superoxide dismutase activity and risk of cognitive decline
+            * Examined the effect of serum 25(OH)D levels on depression in older adults using meta-analysis
+        * The health effect of ambient air pollution
+           * Assessed the association between fine particulate matter exposure and the progression of arterial stiffness
+           * Investigated the association between ambient air pollution and mortality among children aged under 5 years using time series study
 design:
   columns: '2'
 ---
