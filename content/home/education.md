@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        * GPA 
+        * GPA 4.00/4.00 (Calculated by [WES](https://www.wes.org/))
         * Executive President of Epidemiology Student Association
         * Director of Academics, Cancer Hospital Research Student Association
         
@@ -42,8 +42,9 @@ experience:
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
-        * GPA
+        * GPA 3.93/4.00 (Calculated by [WES](https://www.wes.org/))
         * First Class Scholarship; Outstanding Student Leader
+        * Postgraduate exam-free recommendation
 design:
   columns: '2'
   view: 2
