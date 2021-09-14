@@ -15,7 +15,12 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sundianqin/
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Dianqin-Sun
   # Email form provider
   #form:
   #  provider: netlify
