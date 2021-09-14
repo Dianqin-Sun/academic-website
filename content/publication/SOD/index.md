@@ -31,7 +31,7 @@ publication: In *Experimental Gerontology*
 publication_short: In *Exp Gerontol*
 
 abstract:
-"Background: The association between superoxide dismutase (SOD) activity and cognitive decline in older adults remains controversial.
+``Background: The association between superoxide dismutase (SOD) activity and cognitive decline in older adults remains controversial.
 
 Objectives: This study was designed to examine the association between plasma superoxide dismutase (SOD) activity and cognitive decline in older population.
 
@@ -39,7 +39,7 @@ Method: We analyzed the follow-up data from 2012 to 2014 waves of the Chinese Lo
 
 Results: Participants in the highest quartile of SOD activity had an increased risk of cognitive decline compared with those in the lowest quartile (relative risk [RR] = 1.32, 95% confidence interval [CI]: 1.00-1.74, P = 0.051).Using cut-off points determined by Chi-square automatic interaction detector analysis (CHAID), the multivariable relative risks (RRs; 95% CI) for the lowest category, second highest, and the highest versus the third highest category of SOD activity were 0.56 (0.34-0.92), 1.26 (1.03-1.54), and 0.96 (0.70-1.31), respectively.
 
-Conclusions: Higher SOD activity was associated with elevated risk of cognitive decline among Chinese older adults."
+Conclusions: Higher SOD activity was associated with elevated risk of cognitive decline among Chinese older adults.``
 
 # Summary. An optional shortened abstract.
 summary: Higher SOD activity was associated with elevated risk of cognitive decline among Chinese older adults.
