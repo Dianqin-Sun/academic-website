@@ -73,7 +73,7 @@ highlight_name: true
 
 I am a master's student in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. I will graduate in June 2022, and I then intend to pursue a Ph.D. in epidemiology.
 
-My major interest now is social inequalities in gastric cancer. My ambition is to answer why the inequalities occur using the causal mediation methods and how to achieve more equitable screening services based on improving prediction models. Another strand of my graduation works deals with quantifying the impact of change in dietary patterns on the cancer burden in China using the comparative risk assessment. 
+My major interest now is social inequalities in gastric cancer. My ambition is to answer why the inequalities occur using causal mediation methods and how to achieve more equitable screening services based on improving prediction models. Another strand of my graduation works deals with quantifying the impact of change in dietary patterns on the cancer burden in China using the comparative risk assessment. 
  
 I am interested in both methodologies and improtant research questions in public health. I hope I could provide critical insight for the academic community and donate my contribution to population health.
  
