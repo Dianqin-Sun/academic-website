@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        * [Reducing social inequalities in gastric cancer from primary prevention to cancer screening]({{< relref "/project/social inequalities in GC" >}})
+        * [Reducing social inequalities in gastric cancer from primary prevention to cancer screening]({{< relref "/project/social inequalities in GC/index.md" >}})
             * Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
             * Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
         * [Cancer burden in China: trends, risk factors and prevention]({{< relref "/project/cancer burden in China" >}})
