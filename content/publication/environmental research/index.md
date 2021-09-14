@@ -62,8 +62,8 @@ abstract:
 summary: This meta-analysis suggests that increasing 25(OH)D levels may be a useful approach to reduce the risk of depression in older adults and highlights the need for further large-scale clinical studies. 
 
 tags:
-- the old
-- cohort study
+- Environmental epidemiology
+- Work during undergraduation 
 
 featured: true
 

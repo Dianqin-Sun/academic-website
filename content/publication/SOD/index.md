@@ -46,7 +46,7 @@ summary: Higher SOD activity was associated with elevated risk of cognitive decl
 
 tags:
 - the old
-- cohort study
+- Work during undergraduation 
 
 featured: true
 

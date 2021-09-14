@@ -38,6 +38,7 @@ abstract: "We assessed how an awareness of influenza vaccination might influence
 summary: Pregnant women and their obstetricians were ill-informed of the relevant evidence. It is in emergent need to train and disseminate the updated evidence on influenza vaccination to obstetricians. It also warranted more high-quality trials regarding influenza vaccination during pregnancy to address public concern. 
 
 tags:
+- Work during undergraduation 
 
 featured: true
 
