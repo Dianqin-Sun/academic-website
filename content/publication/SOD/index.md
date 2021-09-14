@@ -30,8 +30,8 @@ publication_types: ["2"]
 publication: In *Experimental Gerontology*
 publication_short: In *Exp Gerontol*
 
-abstract: >-
-"-**Background** The association between superoxide dismutase (SOD) activity and cognitive decline in older adults remains controversial.
+abstract: ">-
+-**Background** The association between superoxide dismutase (SOD) activity and cognitive decline in older adults remains controversial.
 
 -**Objectives** This study was designed to examine the association between plasma superoxide dismutase (SOD) activity and cognitive decline in older population.
 
