@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        * Reducing social inequalities in gastric cancer from primary prevention to cancer [screening]({{< relref "/project/social inequalities in GC" >}})
+        * [Reducing social inequalities in gastric cancer from primary prevention to cancer screening]({{< relref "/project/social inequalities in GC" >}})
             * Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
             * Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
         * [Cancer burden in China: trends, risk factors and prevention]({{< relref "/project/cancer burden in China" >}})
@@ -57,7 +57,7 @@ experience:
     date_end: ''
     description: |2-
         * Cognitive and mental health in old adults
-            * [Investigated the association between superoxide dismutase activity and risk of cognitive decline]({{< relref "/publication/SOD" >}})
+            * Investigated the association between superoxide dismutase activity and risk of cognitive [A publication]({{< relref "/publication/SOD" >}} "About Us")
             * [Examined the effect of serum 25(OH)D levels on depression in older adults using meta-analysis]({{< relref "/publication/vitamin D depression" >}})
         * The health effect of ambient air pollution
            * [Assessed the association between fine particulate matter exposure and the progression of arterial stiffness]({{< relref "/publication/Environmental health" >}})
