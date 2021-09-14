@@ -44,7 +44,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: |2-
-        * [Awareness of influenza vaccination among pregnant women and their obstetricians in Beijing]({{< relref "/publication/awareness of vaccination" >}})
+        * [Awareness of influenza vaccination among pregnant women and their obstetricians in Beijing]({{< relref "/publication/awareness-of-vaccination" >}})
             * Investigated factors that might influence the willingness of pregnant women to accept influenza vaccine and the willingness of obstetricians to recommend these vaccines
         * Participated in the baseline survey of [Beijing Child Growth and Health Cohort (PROC) Study](https://procstudy.com/)
 
@@ -57,11 +57,11 @@ experience:
     date_end: ''
     description: |2-
         * Cognitive and mental health in old adults
-            * [Investigated the association between superoxide dismutase activity and risk of cognitive]({{< relref "/content/publication/SOD" >}})
+            * [Investigated the association between superoxide dismutase activity and risk of cognitive](https://dianqinsun.com/publication/sod/)
             * [Examined the effect of serum 25(OH)D levels on depression in older adults using meta-analysis]({{< relref "/publication/vitamin D depression" >}})
         * The health effect of ambient air pollution
            * [Assessed the association between fine particulate matter exposure and the progression of arterial stiffness]({{< relref "/publication/Environmental health" >}})
-           * [Investigated the association between ambient air pollution and mortality among children aged under 5 years using time series study]({{< relref "/publication/environmental research" >}})
+           * [Investigated the association between ambient air pollution and mortality among children aged under 5 years using time series study](https://dianqinsun.com/publication/environmental-research/)
 design:
   columns: '2'
 ---
