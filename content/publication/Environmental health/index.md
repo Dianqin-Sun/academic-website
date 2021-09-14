@@ -48,7 +48,7 @@ abstract: "**Background** Prior studies have investigated the association of PM2
 **Conclusions** Long-term exposure to PM2.5 was associated with the progression of arterial stiffness in Beijing. This study suggests that improvement of air quality may help to prevent arterial stiffness."
 
 # Summary. An optional shortened abstract.
-
+summary: Long-term exposure to PM2.5 was associated with the progression of arterial stiffness in Beijing.
 tags:
 - Environmental epidemiology
 - Bachelor's thesis
