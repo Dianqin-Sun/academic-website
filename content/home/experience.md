@@ -30,14 +30,13 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        * Reducing social inequalities in gastric cancer from primary prevention to cancer screening
+            * Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
+            * Evaluated the improvement in performance and equity of the gastric cancer prediction model after adding socioeconomic variables
         
-        * Analysing
-            * Modelling
-        * Deploying
-        * Analysing
-        * Modelling
-        * Deploying
+        * Cancer burden in China: trends, risk factors and prevention
+           * Summarized the trend of cancer burden in China
+           * Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
   - title: Research Assistant with Professor [Yifei Hu](https://www.researchgate.net/profile/Hu-Yi-fei)
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
     company_url: ''
