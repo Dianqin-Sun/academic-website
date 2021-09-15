@@ -19,8 +19,8 @@ bio: I am a master's student in Epidemiology and Health Statistics. I will gradu
 # Interests to show in About widget
 interests:
 - Causal inference
-- Health disparity
-- Pharmacoepidemiology
+- Health disparities
+- Real-world evidence
 - Cancer epidemiology
 
 # Education to show in About widget
