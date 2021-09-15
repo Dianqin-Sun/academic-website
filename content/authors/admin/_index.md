@@ -20,6 +20,7 @@ bio: I am a master's student in Epidemiology and Health Statistics. I will gradu
 interests:
 - Causal inference
 - Health disparity
+- Pharmacoepidemiology
 - Cancer epidemiology
 
 # Education to show in About widget
@@ -75,6 +76,6 @@ I am a master's student in Epidemiology and Health Statistics at **National Canc
 
 My major interest now is social inequalities in gastric cancer. My ambition is to answer why the inequalities occur using causal mediation methods and how to achieve more equitable screening services based on improving prediction models. Another strand of my graduation works deals with quantifying the impact of change in dietary patterns on the cancer burden in China using the comparative risk assessment. 
  
-I am interested in both methodologies and important research questions in public health. I hope I could provide critical insight for the academic community and donate my contribution to population health.
+I am interested in both research methodology and important research questions in public health. I hope I could provide critical insight for the academic community and donate my contribution to population health.
  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dianqinsun_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
