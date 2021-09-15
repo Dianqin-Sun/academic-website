@@ -50,7 +50,7 @@ url_video: ""
 projects:
 - projects = []
 ---
-In this journal club, I discussed the paper "Continuation of Annual Screening Mammography and Breast Cancer Mortality in Women Older Than 70 Years". Using this paper as an excellent example, I discussed the framework of target trial emulation. The {{% staticref "decision tree.pdf" "newtab" %}}slide{{% /staticref %}} is in Chinese.
+In this journal club, I discussed the paper "Continuation of Annual Screening Mammography and Breast Cancer Mortality in Women Older Than 70 Years". Using this paper as an excellent example, I discussed the framework of target trial emulation. The {{% staticref "target trial emulation.pptx" "newtab" %}}slide{{% /staticref %}} is in Chinese.
 
 If you want to know more about **target trial emulation**, check out these resources:
 
