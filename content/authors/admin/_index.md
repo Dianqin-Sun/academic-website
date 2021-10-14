@@ -21,7 +21,7 @@ interests:
 - Causal inference
 - Real-world evidence
 - Health disparities
-- Cancer epidemiology
+- Simulation model
 
 # Education to show in About widget
 courses:
