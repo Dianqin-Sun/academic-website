@@ -11,17 +11,13 @@ role: Master's student in Epidemiology
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Chinese Academy of Medical Sciences & Peking Union Medical College
-  url: http://english.cams.cn/index.html
+  url: https://en.wikipedia.org/wiki/Peking_Union_Medical_College
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a master's student in Epidemiology and Health Statistics. I will graduate in June 2022, and I then intend to pursue a Ph.D. in epidemiology.
+bio: I am a master's student in Epidemiology and Health Statistics. I will graduate in June 2022, and I then intend to pursue a Ph.D. in the field of public health.
 
 # Interests to show in About widget
-interests:
-- Causal inference
-- Real-world evidence
-- Health disparities
-- Simulation model
+
 
 # Education to show in About widget
 courses:
