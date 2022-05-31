@@ -1,5 +1,5 @@
 ---
-title: "Cancer burden in China and the world"
+title: "Cancer transitions in China and the world"
 summary: Summarized the trend of cancer burden in China and the world. Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment. Identified global patterns of cancer transitions using the latent class modelling methods.
 tags:
 - Comparative risk assessment
