@@ -1,6 +1,6 @@
 ---
-title: "Cancer burden in China: trends, risk factors and prevention"
-summary: Summarized the trend of cancer burden in China. Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
+title: "Cancer burden in China and the world"
+summary: Summarized the trend of cancer burden in China and the world. Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment. Identified global patterns of cancer transitions using the latent class modelling methods.
 tags:
 - Comparative risk assessment
 - Cancer burden
@@ -43,3 +43,4 @@ With the aging population, the burden of cancer in China continues to grow. Chan
 
 Dietary factors have been linked to several types of cancer. Little is known, however, about the role that the dietary transition has played in China's fight against cancer. To this end, we aims to estimate the proportion and number of diet-related cancer cases from 2010 to 2019 in China. Assuming a ten-year lag, we investigated diet-related cancer cases using the PAFs, incidence rates, and population data between 2010 and 2019. The effects of population growth, population aging, and diet-related incidence rates on diet-related cancer trends were derived using a decomposition method.
 
+**global patterns of cancer transitions: a latent class modelling study**
