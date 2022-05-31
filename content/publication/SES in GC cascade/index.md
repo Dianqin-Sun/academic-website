@@ -1,7 +1,7 @@
 ---
 title: "Sociodemographic disparities in gastric cancer and the gastric precancerous cascade: A population-based study"
 authors:
-- Dianqin Sun
+- admin
 - Lin Lei
 - Changfa Xia
 - He Li

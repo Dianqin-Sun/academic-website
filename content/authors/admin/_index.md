@@ -68,10 +68,10 @@ email: "dianqinsun@student.pumc.edu.cn"
 highlight_name: true
 ---
 
-I am a master's student in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. I will graduate in June 2022, and I then intend to pursue a Ph.D. in epidemiology.
+I am a master's student in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. I will graduate in June 2022, and I then intend to pursue a Ph.D. in Public Health.
 
 My major interest now is social inequalities in gastric cancer. My ambition is to answer why the inequalities occur using causal mediation methods and how to achieve more equitable screening services based on improving prediction models. Another strand of my graduation works deals with quantifying the impact of change in dietary patterns on the cancer burden in China using the comparative risk assessment. 
  
-I am interested in both research methodology and important research questions in public health. I hope to provide critical insight for the academic community and to contribute to the improvement of public health.
+I am interested in both research methodology and important research questions in the health research. I hope to provide critical insight for the academic community and to contribute to the improvement of public health.
  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dianqinsun_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
