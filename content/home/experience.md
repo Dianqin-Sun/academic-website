@@ -32,7 +32,7 @@ experience:
     description: |2-
         * [Reducing social inequalities in gastric cancer from primary prevention to cancer screening](https://dianqinsun.com/project/social-inequalities-in-gc/)
             * Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
-            * Evaluated the improvement in performance and equity of the gastric cancer prediction model compated with the screening criteria of "Expert Consensus" 
+            * Evaluated the improvement in performance and equity of the gastric cancer prediction model compared with the screening criteria of "Expert Consensus" 
         * [Cancer transitions in China and the world](https://dianqinsun.com/project/cancer-burden-in-china/)
            * Summarized the trend of cancer burden in China
            * Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
