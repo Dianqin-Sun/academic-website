@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD student in Public Health
+ - title: PhD student in Public Health
     company: Erasmus University Medical Center
     company_url: ''
     company_logo: EMC
