@@ -30,7 +30,7 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
-        * 
+        * Research interest: Gastric cancer screening, Causal inference, Miscrosimulation model
 
  - title: Master's degree in Epidemiology and Health Statistics
     company: Peking Union Medical College (Tsinghua University)
