@@ -33,7 +33,6 @@ experience:
         * GPA 4.00/4.00 (Calculated by [WES](https://www.wes.org/))
         * Executive President of Epidemiology Student Association
         * Director of Academics, Cancer Hospital Research Student Association
-        
   - title: Bachelor's degree in Preventive Medicine
     company: Capital Medical University
     company_url: ''
