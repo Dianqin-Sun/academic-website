@@ -14,7 +14,6 @@ organizations:
   url: https://www.publichealthrotterdam.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a master's student in Epidemiology and Health Statistics. I will graduate in June 2022, and I then intend to pursue a Ph.D. in the field of public health.
 
 # Interests to show in About widget
 
