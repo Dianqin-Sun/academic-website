@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience: 
 - title: Master's degree in Epidemiology and Health Statistics
-    company: Peking Union Medical College, Tsinghua University
+    company: Peking Union Medical College
     company_url: ''
     company_logo: Peking_Union_Medical_College
     location: Beijing CN
