@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dianqin Sun
+title: Dianqin Sun |孙殿钦
 
 # Is this the primary user of the site?
 superuser: true
@@ -62,7 +62,7 @@ social:
  #  link: uploads/dianqinsun_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dianqinsun@student.pumc.edu.cn"
+email: "d.sun@erasmusmc.nl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
