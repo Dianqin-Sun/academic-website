@@ -22,8 +22,11 @@ bio: I am a master's student in Epidemiology and Health Statistics. I will gradu
 # Education to show in About widget
 courses:
   courses:
+  - course: PhD of Public Health
+    institution: Erasmus University Medical Center
+    year: 2022-present
   - course: Master of Medicine in Epidemiology and Health Statistics
-    institution: Chinese Academy of Medical Sciences & Peking Union Medical College
+    institution: Peking Union Medical College (Tsinghua University)
     year: 2019-2022
   - course: Bachelor of Medicine in Preventive Medicine
     institution: Capital Medical University
@@ -68,10 +71,10 @@ email: "d.sun@erasmusmc.nl"
 highlight_name: true
 ---
 
-I am a master's student in Epidemiology and Health Statistics at **National Cancer Center, Chinese Academy of Medical Sciences & Peking Union Medical College**. I will graduate in June 2022, and I then intend to pursue a Ph.D. in Public Health.
+I am a PhD candidate in the Department of Public Health, Erasmus University Medical Center. Originally from Shandong, China, I completed eight years of medical and public health training in Beijing, culminating in a Master's degree in Epidemiology from Peking Union Medical College, Tsinghua University. 
 
-My major interest now is social inequalities in gastric cancer. My ambition is to answer why the inequalities occur using causal mediation methods and how to achieve more equitable screening services based on improving prediction models. Another strand of my graduation works deals with quantifying the impact of change in dietary patterns on the cancer burden in China using the comparative risk assessment. 
- 
-I am interested in both research methodology and important research questions in the health research. I hope to provide critical insight for the academic community and to contribute to the improvement of public health.
+My research is primarily focused on gastric cancer prevention. I am currently engaged in the CISNET-Gastric Cancer project, utilizing causal inference and simulation methods to address emerging questions related to gastric cancer control. Additionally, I will evaluate the effectiveness of gastric cancer prevention policies in the Chinese context. 
+
+In my free time, I enjoy exploring history, traveling with friends, and capturing moments through photography. By the way, I love existentialism and admire Sartre and SU Dongpo.
  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dianqinsun_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
