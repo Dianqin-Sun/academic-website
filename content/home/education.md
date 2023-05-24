@@ -22,11 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Master's degree in Epidemiology and Health Statistics
+- title: PhD student in Public Health
+    company: Erasmus University Medical Center
+    company_url: ''
+    company_logo: EMC
+    location: Rotterdam NL
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+        * Research interest: Gastric cancer screening, Causal inference, Miscrosimulation model
+ 
+- title: Master's degree in Epidemiology and Health Statistics
     company: Peking Union Medical College (Tsinghua University)
     company_url: ''
     company_logo: Peking_Union_Medical_College
-    location: Beijing, CN
+    location: Beijing CN
     date_start: '2019-09-01'
     date_end: '2022-06-01'
     description: |2-
@@ -38,7 +48,7 @@ experience:
     company: Capital Medical University
     company_url: ''
     company_logo: CCMU
-    location: Beijing, CN
+    location: Beijing CN
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
