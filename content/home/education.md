@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master's student in Epidemiology and Health Statistics
-    company: Chinese Academy of Medical Sciences & Peking Union Medical College
+  - title: PhD student in Public Health
+    company: Erasmus University Medical Center
+    company_url: ''
+    company_logo: EMC
+    location: Rotterdam, NL
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+        * 
+
+ - title: Master's degree in Epidemiology and Health Statistics
+    company: Peking Union Medical College (Tsinghua University)
     company_url: ''
     company_logo: Peking_Union_Medical_College
-    location: Beijing
+    location: Beijing, CN
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
         * GPA 4.00/4.00 (Calculated by [WES](https://www.wes.org/))
         * Executive President of Epidemiology Student Association
@@ -38,7 +48,7 @@ experience:
     company: Capital Medical University
     company_url: ''
     company_logo: CCMU
-    location: Beijing
+    location: Beijing, CN
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
