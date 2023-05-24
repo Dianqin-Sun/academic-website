@@ -26,7 +26,7 @@ experience:
     company: Peking Union Medical College
     company_url: ''
     company_logo: Peking_Union_Medical_College
-    location: Beijing CN
+    location: Beijing
     date_start: '2019-09-01'
     date_end: '2022-06-01'
     description: |2-
@@ -38,7 +38,7 @@ experience:
     company: Capital Medical University
     company_url: ''
     company_logo: CCMU
-    location: Beijing CN
+    location: Beijing
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
