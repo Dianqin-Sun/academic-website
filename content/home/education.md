@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience: 
- - title: Master's degree in Epidemiology and Health Statistics
+ - title: Master degree in Epidemiology and Health Statistics
     company: Peking Union Medical College
     company_url: ''
     company_logo: Peking_Union_Medical_College
