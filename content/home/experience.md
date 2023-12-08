@@ -30,7 +30,7 @@ experience:
     date_start: '2022-10-01'
     date_end: ''
     description: |2-
-        * [Optimizing Gastric Cancer Control Strategies: Evidence from Epidemiologic and Simulation Studies]
+        * Optimizing Gastric Cancer Control Strategies: Evidence from Epidemiologic and Simulation Studies
             * Assessed the impact of nationwide gastric cancer screening in South Korea and Japan
   - title: Graduate Student Researcher with Professor [Wanqing Chen](https://scholar.google.com/citations?user=k6EnRdQAAAAJ&hl=zh-TW&oi=ao)
     company: National Cancer Center, CAMS & PUMC
