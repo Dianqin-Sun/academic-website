@@ -22,26 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Junior Researcher with Professor [Iris Lansdorp-Vogelaar](https://scholar.google.com/citations?user=FNRC9twAAAAJ&hl=en&oi=sra)
+    company: Erasmus University Medical Center
+    company_url: ''
+    company_logo: EMC
+    location: Rotterdam, the Netherlands
+    date_start: '2022-10-01'
+    date_end: ''
+    description: |2-
+        * [Optimizing Gastric Cancer Control Strategies: Evidence from Epidemiologic and Simulation Studies]
+            * Assessed the impact of nationwide gastric cancer screening in South Korea and Japan
   - title: Graduate Student Researcher with Professor [Wanqing Chen](https://scholar.google.com/citations?user=k6EnRdQAAAAJ&hl=zh-TW&oi=ao)
     company: National Cancer Center, CAMS & PUMC
     company_url: ''
     company_logo: NCC
-    location: Beijing
+    location: Beijing, China
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
         * [Reducing social inequalities in gastric cancer from primary prevention to cancer screening](https://dianqinsun.com/project/social-inequalities-in-gc/)
             * Applied causal mediation analysis to identify intervention targets for reducing social inequalities in gastric cancer
             * Evaluated the improvement in performance and equity of the gastric cancer prediction model compared with the screening criteria of "Expert Consensus" 
         * [Cancer transitions in China and the world](https://dianqinsun.com/project/cancer-burden-in-china/)
+           * Identified global patterns of cancer transitions using the latent class modelling approach
            * Summarized the trend of cancer burden in China
            * Quantified the impact of change in dietary pattern on the cancer burden in China by the comparative risk assessment
-           * Identified global patterns of cancer transitions using the latent class modelling approach
+           
   - title: Research Assistant with Professor [Yifei Hu](https://www.researchgate.net/profile/Hu-Yi-fei)
     company: Department of Child, Adolescent Health and Maternal Care, Capital Medical University
     company_url: ''
     company_logo: CCMU
-    location: Beijing
+    location: Beijing, China
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: |2-
@@ -64,5 +75,5 @@ experience:
            * [Assessed the association between fine particulate matter exposure and the progression of arterial stiffness](https://dianqinsun.com/publication/environmental-health/)
            * [Investigated the association between ambient air pollution and mortality among children aged under 5 years using time series study](https://dianqinsun.com/publication/environmental-research/)
 design:
-  columns: '2'
+  columns: '3'
 ---

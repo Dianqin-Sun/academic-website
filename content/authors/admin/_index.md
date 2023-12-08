@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dianqin Sun |孙殿钦
+title: Dianqin Sun
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ organizations:
 # Education to show in About widget
 courses:
   courses:
-  - course: PhD of Public Health
+  - course: PhD candidate
     institution: Erasmus University Medical Center
     year: 2022-present
   - course: Master of Medicine in Epidemiology and Health Statistics

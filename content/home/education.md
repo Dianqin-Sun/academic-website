@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience: 
-  - title: PhD student
+  - title: PhD candidate
     company: Erasmus University Medical Center
     company_url: ''
     company_logo: EMC
@@ -34,7 +34,7 @@ experience:
     company: Peking Union Medical College
     company_url: ''
     company_logo: Peking_Union_Medical_College
-    location: Beijing
+    location: Beijing, China
     date_start: '2019-09-01'
     date_end: '2022-06-01'
     description: |2-
@@ -45,7 +45,7 @@ experience:
     company: Capital Medical University
     company_url: ''
     company_logo: CCMU
-    location: Beijing
+    location: Beijing, China
     date_start: '2014-09-01'
     date_end: '2019-06-30'
     description: |2-
