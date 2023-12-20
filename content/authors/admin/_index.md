@@ -74,6 +74,6 @@ I am a PhD candidate in the Department of Public Health, Erasmus University Medi
 
 My research is primarily focused on gastric cancer prevention. I am currently engaged in the CISNET-Gastric Cancer project, utilizing causal inference and simulation methods to address emerging questions related to gastric cancer control. Additionally, I will evaluate the effectiveness of gastric cancer prevention policies in the Chinese context. 
 
-In my free time, I enjoy exploring history, traveling with friends, and capturing moments through photography. By the way, I love existentialism and admire Sartre and SU Dongpo.
+In my free time, I enjoy exploring history, traveling with friends, and capturing moments through [photography](https://500px.com/p/vcg-9e8abe3e744c893705145366568846050?view=photos). By the way, I love existentialism and admire Sartre and SU Dongpo.
  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dianqinsun_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
